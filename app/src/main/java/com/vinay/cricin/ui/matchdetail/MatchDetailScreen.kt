@@ -1,7 +1,6 @@
 package com.vinay.cricin.ui.matchdetail
 
 import androidx.compose.foundation.layout.Arrangement
-import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -30,7 +29,6 @@ import androidx.navigation.NavController
 import coil.compose.SubcomposeAsyncImage
 import coil.request.ImageRequest
 import com.vinay.cricin.data.model.MatchDetails
-import com.vinay.cricin.ui.matchlist.MatchListViewModel
 import com.vinay.cricin.utils.FormatDate
 
 @Composable

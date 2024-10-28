@@ -1,7 +1,6 @@
 package com.vinay.cricin.ui.matchlist
 
 import androidx.compose.foundation.background
-import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -33,7 +32,6 @@ import androidx.navigation.NavController
 import com.vinay.cricin.data.model.Match
 import com.vinay.cricin.navigation.Screen
 import com.vinay.cricin.utils.FormatDate
-import dagger.hilt.android.lifecycle.HiltViewModel
 
 @Composable
 fun MatchListScreen(navController: NavController) {

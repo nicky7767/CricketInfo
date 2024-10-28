@@ -4,7 +4,6 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.vinay.cricin.data.model.Match
 import com.vinay.cricin.data.network.Constants
-import com.vinay.cricin.data.network.Resource
 import com.vinay.cricin.data.repository.MatchRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow

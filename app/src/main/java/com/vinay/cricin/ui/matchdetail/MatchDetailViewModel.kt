@@ -2,7 +2,6 @@ package com.vinay.cricin.ui.matchdetail
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.vinay.cricin.data.model.Match
 import com.vinay.cricin.data.model.MatchDetails
 import com.vinay.cricin.data.network.Constants
 import com.vinay.cricin.data.network.Resource
